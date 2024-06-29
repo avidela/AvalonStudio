@@ -1,18 +1,18 @@
 [submodule "debugger-libs"]
 	path = debugger-libs
-	url = https://github.com/VitalElement/AvalonStudio.DebuggerLibs.git
+	url = https://github.com/avidela/AvalonStudio.DebuggerLibs.git
 [submodule "AvaloniaEdit"]
 	path = AvaloniaEdit
-	url = https://github.com/AvaloniaUI/AvaloniaEdit
+	url = https://github.com/avidela/AvaloniaEdit
 [submodule "AvalonStudio/Avalonia.Ide"]
 	path = AvalonStudio/Avalonia.Ide
 	url = https://github.com/avidela/Avalonia.Ide.git
 [submodule "templating"]
 	path = templating
-	url = https://github.com/VitalElement/templating.git
+	url = https://github.com/avidela/templating.git
 [submodule "AvalonStudio.Shell"]
 	path = AvalonStudio.Shell
-	url = https://github.com/VitalElement/AvalonStudio.Shell.git
+	url = https://github.com/avidela/AvalonStudio.Shell.git
 [submodule "AvalonStudio.TerminalEmulator"]
 	path = AvalonStudio.TerminalEmulator
-	url = https://github.com/VitalElement/AvalonStudio.TerminalEmulator.git
+	url = https://github.com/avidela/AvalonStudio.TerminalEmulator.git
